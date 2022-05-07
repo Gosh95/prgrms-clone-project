@@ -35,3 +35,5 @@ out/
 
 ### VS Code ###
 .vscode/
+
+starbooks-front/node_modules/
